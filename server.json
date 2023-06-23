@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-06-21T17:53:55.919Z",
       "id": 5
+    },
+    {
+      "description": "Bombom",
+      "price": 2,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-23T22:16:17.632Z",
+      "id": 6
     }
   ]
 }
